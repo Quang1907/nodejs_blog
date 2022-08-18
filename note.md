@@ -1,5 +1,17 @@
 # npm
+
 # node js
+
 # express js
-# nodemon 
+
+# nodemon
+
 # inspector
+
+# morgan
+
+# template engines (express-handlebars)
+
+# static files & sass
+
+# bootstrap
